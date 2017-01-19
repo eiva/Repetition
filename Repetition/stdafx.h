@@ -9,6 +9,14 @@
 
 #include <stdio.h>
 #include <tchar.h>
+#include <vector>
+#include <set>
+#include <tuple>
+#include <limits>
+#include <array>
+#include <algorithm>
+#include <map>
+
 
 
 

@@ -3,6 +3,7 @@
 
 #include "stdafx.h"
 
+#include "TandemRepeats.h"
 
 int main()
 {
